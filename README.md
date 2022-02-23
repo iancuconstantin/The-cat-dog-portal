@@ -1,12 +1,6 @@
 # The cat-dog portal
 
-## Story
-
-Are you a cat or dog lover ?
-Choose your side !
-Make the perfect Cat/Dog pictures portal where you can upload and see what others have uploaded !
-
-## What are you going to learn?
+## What I`ve learned:
 
 - Http GET request
 - Http POST request
@@ -44,21 +38,3 @@ Make the perfect Cat/Dog pictures portal where you can upload and see what other
 
 5. The page can be accessed from a public url
     - The web page is hosted on github pages and can be accessed by anyone from a public url
-
-## General requirements
-
-None
-
-## Hints
-
-- as long as you respect the class name of `legend` inside the `react-responsive-carousel` you can change the `span` to a `button`
-- in order to use the API you first need to create an account and get an `X-API-KEY` key
-- you can upload pictures to you account by importing in `postman` the file `cat-api.postman_collection.json` and then in the `upload` url select from the `body` tab the image to upload. Be sure to change in the `headers` tab the `x-api-key`
-
-## Background materials
-
-- <i class="far fa-exclamation"></i> [The Cat API Docs](https://docs.thecatapi.com/image-upload)
-- <i class="far fa-exclamation"></i> [PostMan CatApi Docs](https://documenter.getpostman.com/view/4016432/RWToRJCq#2f2ae1b4-13bf-4e1f-ae19-cc674eb7254c)
-- <i class="far fa-exclamation"></i> [Example Upload File in React](https://www.pluralsight.com/guides/uploading-files-with-reactjs)
-- <i class="far fa-book-open"></i> [How to get or set boundary in multipart/form-data from FormData?](https://dirask.com/questions/How-to-get-or-set-boundary-in-multipart-form-data-from-FormData-1X9JKD)
-- <i class="far fa-book-open"></i> [Debugging a React project](https://blog.logrocket.com/debug-react-applications-with-the-new-react-devtools/)
