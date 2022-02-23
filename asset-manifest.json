@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/The-cat-dog-portal/static/css/main.73039ae1.chunk.css",
+    "main.js": "/The-cat-dog-portal/static/js/main.f65a6527.chunk.js",
+    "main.js.map": "/The-cat-dog-portal/static/js/main.f65a6527.chunk.js.map",
+    "runtime-main.js": "/The-cat-dog-portal/static/js/runtime-main.2f60738f.js",
+    "runtime-main.js.map": "/The-cat-dog-portal/static/js/runtime-main.2f60738f.js.map",
+    "static/css/2.1a95cbfb.chunk.css": "/The-cat-dog-portal/static/css/2.1a95cbfb.chunk.css",
+    "static/js/2.796d83ef.chunk.js": "/The-cat-dog-portal/static/js/2.796d83ef.chunk.js",
+    "static/js/2.796d83ef.chunk.js.map": "/The-cat-dog-portal/static/js/2.796d83ef.chunk.js.map",
+    "index.html": "/The-cat-dog-portal/index.html",
+    "precache-manifest.d850a0e20d3f1bb9c383aef896cbda45.js": "/The-cat-dog-portal/precache-manifest.d850a0e20d3f1bb9c383aef896cbda45.js",
+    "service-worker.js": "/The-cat-dog-portal/service-worker.js",
+    "static/css/2.1a95cbfb.chunk.css.map": "/The-cat-dog-portal/static/css/2.1a95cbfb.chunk.css.map",
+    "static/css/main.73039ae1.chunk.css.map": "/The-cat-dog-portal/static/css/main.73039ae1.chunk.css.map",
+    "static/js/2.796d83ef.chunk.js.LICENSE.txt": "/The-cat-dog-portal/static/js/2.796d83ef.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2f60738f.js",
+    "static/css/2.1a95cbfb.chunk.css",
+    "static/js/2.796d83ef.chunk.js",
+    "static/css/main.73039ae1.chunk.css",
+    "static/js/main.f65a6527.chunk.js"
+  ]
+}
